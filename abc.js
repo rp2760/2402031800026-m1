@@ -25,9 +25,9 @@
 
 
 
-var a = 20;
-if(a>=18) alert("elegible for vote ")
-else alert("not elegible for vote")
+// var a = 20;
+// if(a>=18) alert("elegible for vote ")
+// else alert("not elegible for vote")
 
 
 
